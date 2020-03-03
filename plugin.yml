@@ -1,0 +1,8 @@
+name: LagLocator
+main: com.gmail.filoghost.laglocator.LagLocator
+version: 1.0
+depend: [WildCommons]
+
+commands:
+   laglocator:
+      description: Trova fonti di lag.
